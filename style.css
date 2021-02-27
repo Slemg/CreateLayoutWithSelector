@@ -3,11 +3,15 @@
     background-image: url("./image/rectangle.png");
 
 }
+.main-content.slick-initialized {
+    max-height: 250px;
+}
 .bg-img {
     background-size:contain;
     background-repeat: no-repeat;
     width: 400px;
     height: 400px;
+    margin: 0 auto;
 }
 
 .background-yellow {
